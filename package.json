@@ -1,0 +1,15 @@
+{
+  "name": "ticket-botum-v14",
+  "version": "1.0.0",
+  "description": "ticket bot gelişmiş v14 ",
+  "main": "cheff.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cheff",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.15.3",
+    "mongoose": "^8.5.1"
+  }
+}
